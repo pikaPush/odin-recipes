@@ -14,3 +14,8 @@ h1,
 h2 {
   text-align: center;
 }
+
+a {
+  color: rgb(13, 227, 13);
+  text-decoration: none;
+}
