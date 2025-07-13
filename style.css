@@ -11,3 +11,8 @@ h1 {
 li a {
   color: rgb(27, 192, 15);
 }
+
+ul li {
+  text-align: center;
+  list-style: none;
+}
