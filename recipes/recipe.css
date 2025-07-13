@@ -28,6 +28,10 @@ a {
 
 p {
   text-align: center;
-  margin-bottom: 20px;
+  margin: 0 0 20px 0;
   padding: 20px;
+}
+
+h2 {
+  margin-top: 30px;
 }
