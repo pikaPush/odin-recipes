@@ -6,3 +6,7 @@ h1 {
   font-size: 50px;
   text-align: center;
 }
+
+li a {
+  color: rgb(27, 192, 15);
+}
